@@ -15,3 +15,5 @@ void sendMessage(const char *data, int l){
   mySerial.write(data);
   mySerial.flush();
 }
+
+//n
